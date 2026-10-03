@@ -1,0 +1,74 @@
+RAHUL SHARMA
+Bengaluru, Karnataka, India
+rahul.sharma@example.com | +91 98765 43210
+linkedin.com/in/rahulsharma | github.com/rahulsharma
+
+PROFESSIONAL SUMMARY
+Backend engineer with 4 years of experience building data-intensive services in
+Python and Go. Comfortable owning a feature from schema design through to
+production monitoring.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, Go, SQL, JavaScript
+Frameworks: Django, FastAPI, React, Flask
+Databases: PostgreSQL, MongoDB, Redis
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform
+Tools: Git, Jira, Postman, Grafana
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+Zeta Payments Pvt Ltd, Bengaluru, India
+Mar 2022 - Present
+- Led the migration of the settlement service from Django to FastAPI, cutting p99
+  latency from 820 ms to 240 ms.
+- Designed a PostgreSQL partitioning strategy that kept query times flat as the
+  ledger grew past 400 million rows.
+- Mentored three junior engineers and introduced trunk-based development.
+
+Software Engineer
+Infosys Limited, Pune, India
+Jul 2020 - Feb 2022
+- Built REST APIs in Java and Spring Boot for a retail banking client serving
+  2.5 million customers.
+- Automated nightly reconciliation with Airflow, removing four hours of manual
+  work per day.
+
+Software Engineering Intern
+Freshworks, Chennai, India
+Jan 2020 - Jun 2020
+- Prototyped a Redis-backed rate limiter later adopted by two internal teams.
+
+EDUCATION
+
+B.Tech in Computer Science and Engineering
+National Institute of Technology, Surathkal
+2016 - 2020
+CGPA: 8.7/10
+
+Higher Secondary Certificate, Science
+Delhi Public School, Bengaluru
+2014 - 2016
+Percentage: 92.4%
+
+PROJECTS
+
+Smart Resume Parser | Python, spaCy, Streamlit, PyMuPDF
+- Built an end-to-end resume parsing tool that extracts contact details, skills,
+  education and experience from PDF and DOCX files.
+- Published the structured output as JSON and CSV for downstream ATS imports.
+
+Ledger Reconciliation Engine | Go, PostgreSQL, Kafka
+- Streaming reconciliation service that matches 12 million daily transactions
+  against bank statements with sub-second lag.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2023)
+- Certified Kubernetes Application Developer (2022)
+
+ACHIEVEMENTS
+- Winner, Zeta internal hackathon 2023, for a fraud-scoring prototype.
+- Published "Partitioning Postgres Without Downtime" on the Zeta engineering blog.
+
+LANGUAGES
+English (fluent), Hindi (native), Kannada (conversational)

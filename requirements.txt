@@ -1,0 +1,16 @@
+# Smart Resume Parser - runtime dependencies
+#
+# After installing, download the spaCy English model:
+#   python -m spacy download en_core_web_sm
+#
+# The parser degrades gracefully to regex-only extraction if the model is
+# missing, but entity-based name/location detection needs it.
+
+streamlit==1.42.2
+pymupdf==1.25.3
+python-docx==1.1.2
+spacy==3.8.4
+pandas>=2.0.0
+
+# --- development / testing ---
+pytest==8.3.5

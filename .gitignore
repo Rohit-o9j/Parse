@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Generated sample artifacts are checked in on purpose; ignore scratch output only.
+data/output/

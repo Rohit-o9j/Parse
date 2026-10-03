@@ -1,0 +1,46 @@
+Dana Whitfield
+Austin, TX 78701
+(512) 555-0188 * dana.whitfield@example.com * https://github.com/danawhitfield
+
+Objective
+Data engineer moving into platform work. Looking for a team that treats data
+pipelines as production software.
+
+Core Competencies
+Python, Scala, Apache Spark, Airflow, dbt, Snowflake, BigQuery, Terraform,
+Google Cloud Platform, Looker, Tableau, Pandas, NumPy, scikit-learn
+
+Professional Experience
+Data Engineer II, Brightline Analytics - Austin, TX                  2021 - Present
+- Rebuilt the ingestion layer on Spark Structured Streaming, raising throughput
+  from 40k to 310k events per second.
+- Introduced dbt and cut the analytics team's model build time by 70%.
+- On-call rotation owner for 14 production pipelines.
+
+Data Analyst, Northbend Retail Group - Dallas, TX                    2019 - 2021
+- Owned the weekly merchandising dashboard used by 60 store managers.
+- Migrated reporting from Excel to BigQuery and Looker.
+
+Education
+Master of Science, Information Systems
+University of Texas at Austin, 2019
+GPA 3.8/4.0
+
+Bachelor of Science in Statistics
+Texas A&M University, 2017
+
+Selected Projects
+Pipeline Observability Toolkit
+A lightweight lineage tracker for Airflow DAGs. Technologies: Python, Airflow,
+Neo4j, FastAPI.
+
+Open Data Austin
+Volunteer project publishing cleaned city transit data as a public API.
+Technologies used: Python, PostgreSQL, Docker.
+
+Certifications
+Google Professional Data Engineer, 2022
+dbt Analytics Engineering Certification, 2022
+
+Interests
+Trail running, amateur radio, teaching Python to career switchers.

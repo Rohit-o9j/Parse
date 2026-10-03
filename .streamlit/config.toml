@@ -1,0 +1,28 @@
+[theme]
+base = "light"
+primaryColor = "#4f46e5"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f7f8fb"
+textColor = "#111827"
+font = "sans serif"
+
+[server]
+# Keep uploads small; the UI advertises the same number via settings.MAX_FILE_SIZE_MB.
+maxUploadSize = 10
+# CSRF protection requires CORS to stay enabled, so both are left at their
+# secure defaults rather than disabled for convenience.
+enableXsrfProtection = true
+
+# Streamlit's hot-reload watcher inspects every imported module to decide what
+# to watch. If PyTorch is installed anywhere in the environment it raises when
+# probed this way, printing a long traceback on every interaction even though
+# the app is fine. The watcher is not needed to run the app, so it stays off.
+# Set this to "auto" if you want edit-and-reload while developing.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = true
